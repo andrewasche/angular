@@ -978,7 +978,7 @@ A template input variable is a variable you can reference within a single instan
 <!-- ref2 accessed from outside that template doesn't work -->
 <span>Value: {{ ref2?.value }}</span>
 ```
-
+ 
 Read and learn more about [template input variables](guide/template-reference-variables#template-input-variable).
 
 {@a token}
